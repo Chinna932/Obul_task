@@ -1,0 +1,6 @@
+TestCase ErrorCount_Date ErrorText_Date ErrorCount_Date ErrorText_Date ErrorCount_Date ErrorText_Date ErrorCount_Date ErrorText_Date
+Test1		0				error_msg1		1				error_msg1		0			error_msg5		0				error_msg1
+Test2		0				error_msg2		0				error_msg2		0			error_msg4		0				error_msg2
+Test3		0				error_msg3		3				error_msg5		0			error_msg3		0				error_msg3
+Test4		0				error_msg4		2				error_msg4		0			error_msg2		0				error_msg5
+Test5		0				error_msg5		1				error_msg1		0			error_msg1		0				error_msg4
